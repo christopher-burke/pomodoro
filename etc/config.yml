@@ -1,0 +1,4 @@
+## Runtime configuration for the pomodoro application.
+##
+core:
+  logging: WARN
